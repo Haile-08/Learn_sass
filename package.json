@@ -1,0 +1,24 @@
+{
+  "name": "learn_sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Haile-08/Learn_sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haile-08/Learn_sass/issues"
+  },
+  "homepage": "https://github.com/Haile-08/Learn_sass#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.54.8"
+  }
+}
